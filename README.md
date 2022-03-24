@@ -25,6 +25,6 @@
 
 [![Linkedin: Jerly M De la Rosa](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/jerlydelarosa/)
 [![GitHub Ghazi](https://img.shields.io/github/followers/sr-jerly?label=follow&style=social)](https://github.com/sr-jerly)
-![Twitter Follow](https://img.shields.io/twitter/follow/sr-jerly?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/sr_jerly?style=social)
 
 
