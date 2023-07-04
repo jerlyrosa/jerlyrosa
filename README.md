@@ -1,7 +1,7 @@
 
 ## Hey there 👋 
 
-*A frontend developer*
+*developer*
 #### Lenguajes de programación y herramientas:
 
 <div style="display: inline_block"><br>
