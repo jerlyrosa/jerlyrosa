@@ -1,11 +1,7 @@
 
 ## Hey there 👋 
 
-*developer*
-#### Lenguajes de programación y herramientas:
-
-
-
+*I just code*
 
 
 📫 How to reach me:: 
